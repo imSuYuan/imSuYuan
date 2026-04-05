@@ -7,4 +7,6 @@
 
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu%2025%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
+
+![snake](https://raw.githubusercontent.com/xiaoxindada/xiaoxindada/output/github-contribution-grid-snake.svg)
