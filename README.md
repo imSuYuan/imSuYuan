@@ -13,7 +13,6 @@
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=windows11&logoColor=ffffff)
 ![MacOS](https://img.shields.io/badge/macOS%2015-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%2025%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=0f172a)
 
 #  📦 Devices
 ![iPhone](https://img.shields.io/badge/iPhone-111111?style=flat-square&logo=apple&logoColor=ffffff)
